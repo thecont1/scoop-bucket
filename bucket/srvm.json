@@ -1,17 +1,17 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Zero-config universal app launcher",
   "homepage": "https://github.com/thecont1/srvm",
   "license": "MIT",
   "architecture": {
     "arm64": {
-      "url": "https://github.com/thecont1/srvm/releases/download/v0.1.0/srvm-aarch64-pc-windows-msvc.zip",
-      "hash": "sha256:403e9b72f34f9aa7c9d18823e517307e4bcd324fc8abdea7c327df0332d822bf",
+      "url": "https://github.com/thecont1/srvm/releases/download/v0.1.1/srvm-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:f6755e1a982cd1358afc4da849d536c210193ac3386da7ebea0bafbddab37056",
       "bin": "srvm.exe"
     },
     "64bit": {
-      "url": "https://github.com/thecont1/srvm/releases/download/v0.1.0/srvm-x86_64-pc-windows-msvc.zip",
-      "hash": "sha256:980d3196b048bd32a8afbdc0a72ccea8c69cdca60ad091c0d39801e573f764f7",
+      "url": "https://github.com/thecont1/srvm/releases/download/v0.1.1/srvm-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:efdac6dd4c316f64cd832abdca03a6be4767c779e718afdba7592552c4eb7b7d",
       "bin": "srvm.exe"
     }
   },
